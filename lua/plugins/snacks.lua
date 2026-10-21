@@ -9,6 +9,9 @@ return {
             ignored = true,
             exclude = { "node_modules" },
           },
+          files = {
+            hidden = true,
+          },
         },
       },
     },
